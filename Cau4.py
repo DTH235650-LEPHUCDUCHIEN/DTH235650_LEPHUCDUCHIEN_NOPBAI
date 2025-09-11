@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 x = 3
 y = 5
 z = 7
@@ -13,3 +14,6 @@ print("(i)",x >= 0 and x < 2)
 print("(j)",x < 0 or x < 10)
 print("(k)",x > 0 or x < 10)
 print("(l)",x < 0 or x > 10)
+=======
+print("Chao cac ban!")
+>>>>>>> c0de2ac0eb83faaf12050d954f3f6ef691c199bb

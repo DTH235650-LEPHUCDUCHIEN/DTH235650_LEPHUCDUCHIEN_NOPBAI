@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def doc_so(n):
     don_vi = ["", "một", "hai", "ba", "bốn", "năm", "sáu", "bảy", "tám", "chín"]
 
@@ -27,3 +28,6 @@ n = int(input("Nhập một số (tối đa 2 chữ số): "))
 
 # In ra cách đọc số
 print(doc_so(n))
+=======
+print("Mình về mình có nhớ ta?\nMười lăm năm ấy thiết tha mặn nồng.\nMình về mình có nhớ không?\nNhìn cây nhớ núi, nhìn sông nhớ nguồn.")
+>>>>>>> c0de2ac0eb83faaf12050d954f3f6ef691c199bb
