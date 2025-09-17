@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 def check_values(i, j, k):
     if i < j:
         if j < k:
@@ -32,6 +31,3 @@ check_values(7, 3, 5)
 
 print("\n(f) i = 7, j = 5, k = 3")
 check_values(7, 5, 3)
-=======
-print("Lê Phúc Đức Hiền")
->>>>>>> c0de2ac0eb83faaf12050d954f3f6ef691c199bb
