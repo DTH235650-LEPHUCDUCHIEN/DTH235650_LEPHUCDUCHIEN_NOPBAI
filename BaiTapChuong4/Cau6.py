@@ -1,0 +1,1 @@
+print("Những giá trị 34 0 99 có thể xuất hiện trong randrange(0,100)")
