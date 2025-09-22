@@ -30,8 +30,4 @@ print("\n(e) i = 7, j = 3, k = 5")
 check_values(7, 3, 5)
 
 print("\n(f) i = 7, j = 5, k = 3")
-<<<<<<< HEAD
 check_values(7, 5, 3)
-=======
-check_values(7, 5, 3)
->>>>>>> 4d7ada004f0e82736f2e4b2f17169d3257014926
