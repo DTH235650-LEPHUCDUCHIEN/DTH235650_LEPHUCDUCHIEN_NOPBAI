@@ -18,8 +18,4 @@ elif operation == "/":
     else:
         print("Lỗi: Không thể chia hết cho 0.")
 else:
-<<<<<<< HEAD
     print("Phép toán không hợp lệ.")
-=======
-    print("Phép toán không hợp lệ.")
->>>>>>> 4d7ada004f0e82736f2e4b2f17169d3257014926
