@@ -11,4 +11,8 @@ elif month ==2:
     else:
         print("Tháng: ",month,"\t",year," có 28 ngày.")
 else:
+<<<<<<< HEAD
    print("Tháng: ",month," không hợp lệ!")
+=======
+   print("Tháng: ",month," không hợp lệ!")
+>>>>>>> 4d7ada004f0e82736f2e4b2f17169d3257014926

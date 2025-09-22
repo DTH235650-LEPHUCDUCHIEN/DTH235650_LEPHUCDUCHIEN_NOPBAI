@@ -18,4 +18,8 @@ thang = int(input("Nhập tháng: "))
 nam = int(input("Nhập năm: "))
 
 # Tìm và in ngày kế tiếp
+<<<<<<< HEAD
 print("Ngày kế tiếp là:", ngay_ke_tiep(ngay, thang, nam))
+=======
+print("Ngày kế tiếp là:", ngay_ke_tiep(ngay, thang, nam))
+>>>>>>> 4d7ada004f0e82736f2e4b2f17169d3257014926

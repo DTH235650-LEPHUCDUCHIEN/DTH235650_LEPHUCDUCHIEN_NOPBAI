@@ -12,4 +12,8 @@ print("(h)",x < 0 and x < 10)
 print("(i)",x >= 0 and x < 2)
 print("(j)",x < 0 or x < 10)
 print("(k)",x > 0 or x < 10)
+<<<<<<< HEAD
 print("(l)",x < 0 or x > 10)
+=======
+print("(l)",x < 0 or x > 10)
+>>>>>>> 4d7ada004f0e82736f2e4b2f17169d3257014926
