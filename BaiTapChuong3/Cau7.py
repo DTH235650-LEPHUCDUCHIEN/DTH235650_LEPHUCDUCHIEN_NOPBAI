@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from datetime import datetime, timedelta
 
 
@@ -20,14 +19,3 @@ nam = int(input("Nhập năm: "))
 
 # Tìm và in ngày kế tiếp
 print("Ngày kế tiếp là:", ngay_ke_tiep(ngay, thang, nam))
-=======
-import sys
-
-# Kiểm tra số lượng tham số
-if len(sys.argv) < 2:
-    print("Vui lòng nhập chuỗi cần in thông qua dòng lệnh.")
-else:
-    # Lấy tất cả các tham số sau tên file và nối lại thành chuỗi
-    chuoi = ' '.join(sys.argv[1:])
-    print("Chuỗi đã nhập:", chuoi)
->>>>>>> c0de2ac0eb83faaf12050d954f3f6ef691c199bb
